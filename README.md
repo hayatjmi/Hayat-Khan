@@ -73,8 +73,8 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your@email.com  
+- 🔗 LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/hk2224/)
+- 📧 Email: hayatjmi007@gmail.com  
 
 ⭐ *Open to opportunities in Data Science, Backend & Python Development*
 
